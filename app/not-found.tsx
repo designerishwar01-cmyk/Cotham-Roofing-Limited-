@@ -1,0 +1,1 @@
+export default function NotFound(){return <main className="not-found"><span className="eyebrow">COTHAM ROOFING LIMITED / 404</span><h1>LET'S GET YOU<br/>BACK UNDER COVER.</h1><p>This page could not be found.</p><a href="/" className="cta">Back to home ↗</a></main>;}
